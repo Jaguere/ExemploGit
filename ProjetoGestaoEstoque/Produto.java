@@ -1,4 +1,4 @@
-
+//eu odeio o globalismo e o bill gates
 public class Produto {
 
 	private double peso;
